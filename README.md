@@ -1,6 +1,5 @@
 # Mohamad Khudeer
-
-Junior Backend Developer with a background in Business, focused on building reliable and well-structured web applications using Node.js and modern backend technologies.
+Backend Developer focused on building structured and reliable web applications using Node.js, with a strong foundation in Business.
 
 ## Profile
 
