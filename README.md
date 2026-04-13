@@ -17,10 +17,26 @@ My background in Business supports my ability to understand real-world requireme
 * MVC Architecture
 * Git & GitHub
 
-## Selected Projects
+## Projects
 
-* Timeline Application: A full-stack application with authentication, post management, and structured MVC design
-* Authentication System: Secure user authentication using JWT and protected routes
+* Timeline App (Node.js, MVC architecture)
+* JavaScript Calculator
+* Pomodoro Timer
+
+### Team Project
+
+* Matrix Master
+  A collaborative project developed within a team environment.
+
+  My role:
+
+  * Team Leader responsible for coordinating tasks and managing overall progress
+  * Defined the project structure and main features
+  * Organized task distribution among team members
+  * Monitored development progress and ensured deadlines were met
+
+  GitHub: [View Project](https://github.com/leofernandez3/MatrixMaster/tree/main/Final_Project)
+
 
 ## What I Offer
 
